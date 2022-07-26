@@ -48,9 +48,9 @@ Please see the corresponding video to learn how to process the intraoral scan yo
 
 |Type|Tutorial|Level|
 |--|--|--|
-|Scan with a base<br />(closed surface)|Youtube link1|Basic|
-|Scan without a base<br />(open surface)|Youtube link2|Basic|
-|Make a shell model|Youtube link3| Advanced|
+|Scan with a base<br />(closed surface)|[![Watch the video](https://img.youtube.com/vi/0ezJMatLaWA/default.jpg)](https://youtu.be/0ezJMatLaWA)|Basic|
+|Scan without a base<br />(open surface)|[![Watch the video](https://img.youtube.com/vi/3Bh2ytn5sJk/default.jpg)](https://youtu.be/3Bh2ytn5sJk)|Basic|
+|Make a shell model|[![Watch the video](https://img.youtube.com/vi/4LIzrXOKvcM/default.jpg)](https://youtu.be/4LIzrXOKvcM)| Advanced|
 |Make a vertical printable model|[![Watch the video](https://img.youtube.com/vi/f3jqJRplCGg/default.jpg)](https://youtu.be/f3jqJRplCGg)|Advanced|
 
 
@@ -58,12 +58,27 @@ Please see the corresponding video to learn how to process the intraoral scan yo
 ## Step 4. Submit a job to 3D printer
 
 Once the STL file you plan to print is ready, you can import the STL files into the slicing software (i.e., Envision One RP here). Please see the video below to learn the basic operation.
+There are two different types of printing in terms of direction: horizontal and vertical. Please see the corresponding videos below.
+|Direction|Video|Speed|Suitable models|
+|--|--|--|--|
+|Horizontal |Make a vertical printable model|[![Watch the video](https://img.youtube.com/vi/YSp00rMg9gs/default.jpg)](https://youtu.be/YSp00rMg9gs)|Short|$$\leq 4$$|
+|Vertical |Make a vertical printable model|[![Watch the video](https://img.youtube.com/vi/R7QZV5582iA/default.jpg)](https://youtu.be/R7QZV5582iA)|Long|$$\gt4$$|
+
 
 ## Step 5. 3D printing
 
+ 1. Turn on oxygen generator
+ 2. Check amount of resin in material tray
+ 3. Shaking and pour more resin into material tray
+ 4. Well mix resin in material tray
+ 5. Print
+
 ## Step 6. Post-process 3D printed models
 
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
-
-
+ 1. Remove printing bed
+ 2. Remove printed models from printing bed
+ 3. Clean printing bed
+ 4. Wash printed models using ultrasonic washer
+ 5. Dry models
+ 6. Post-curing models
 
