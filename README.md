@@ -49,7 +49,7 @@ Basically, there are two types of intraoral scans:
 |Scan without a base<br />(open surface)|![](type2.jpg)|No|
  
  
-Please see the corresponding video to learn how to process the intraoral scan you plan to print.
+Please see the corresponding video to learn how to process the intraoral scan that you plan to print.
 
 |Type|Tutorial|Level|
 |--|--|--|
@@ -66,8 +66,8 @@ Once the STL file you plan to print is ready, you can import the STL files into 
 There are two different types of printing direction: horizontal and vertical. Please see the corresponding videos below.
 |Direction|Video|Speed|Suitable models|
 |--|--|--|--|
-|Horizontal |Make a vertical printable model|[![Watch the video](https://img.youtube.com/vi/YSp00rMg9gs/default.jpg)](https://youtu.be/YSp00rMg9gs)|Short|$$\leq 4$$|
-|Vertical |Make a vertical printable model|[![Watch the video](https://img.youtube.com/vi/R7QZV5582iA/default.jpg)](https://youtu.be/R7QZV5582iA)|Long|$$\gt4$$|
+|Horizontal |[![Watch the video](https://img.youtube.com/vi/YSp00rMg9gs/default.jpg)](https://youtu.be/YSp00rMg9gs)|Short|$$\leq 4$$|
+|Vertical |[![Watch the video](https://img.youtube.com/vi/R7QZV5582iA/default.jpg)](https://youtu.be/R7QZV5582iA)|Long|$$\gt4$$|
 
 
 ## Step 5. 3D printing
