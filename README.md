@@ -45,11 +45,13 @@ Basically, there are two types of intraoral scans:
  
  
 Please see the corresponding video to learn how to process the intraoral scan you plan to print.
- - Youtube link1
- - Youtube link2
- - Advanced: make a shell model
- - Advanced: Vertical printing
-[![Watch the video](https://img.youtube.com/vi/f3jqJRplCGg/default.jpg)](https://youtu.be/f3jqJRplCGg)
+
+|Type|Tutorial|Level|
+|--|--|--|
+|Scan with a base<br />(closed surface)|Youtube link1|Basic|
+|Scan without a base<br />(open surface)|Youtube link2|Basic|
+|Make a shell model|Youtube link3| Advanced|
+|Make a vertical printable model|[![Watch the video](https://img.youtube.com/vi/f3jqJRplCGg/default.jpg)](https://youtu.be/f3jqJRplCGg)|Advanced|
 
 
 
