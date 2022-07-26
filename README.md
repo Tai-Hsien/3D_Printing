@@ -64,7 +64,7 @@ Please see the corresponding video to learn how to process the intraoral scan th
 
 Once the STL file you plan to print is ready, you can import the STL files into the slicing software (i.e., Envision One RP here). Please see the video below to learn the basic operation.
 There are two different types of printing direction: horizontal and vertical. Please see the corresponding videos below.
-|Direction|Video|Speed|Suitable models|
+|Direction|Tutorial|Printing time|Suitable # of models|
 |--|--|--|--|
 |Horizontal |[![Watch the video](https://img.youtube.com/vi/YSp00rMg9gs/default.jpg)](https://youtu.be/YSp00rMg9gs)|Short|$$\leq 4$$|
 |Vertical |[![Watch the video](https://img.youtube.com/vi/R7QZV5582iA/default.jpg)](https://youtu.be/R7QZV5582iA)|Long|$$\gt4$$|
