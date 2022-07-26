@@ -29,10 +29,12 @@ When you plan to 3D print the model, please remember which scanner you used, bec
 ## Step 2. Export the intraoral scan
 
 ### 3Shape Trios
-Find a computer with 3Shape OrthoAnalyzer. Details are coming soon.
+Find a computer with 3Shape OrthoAnalyzer, and then follow the video below.
+[![Watch the video](https://img.youtube.com/vi/6F3gCE-kvWA/default.jpg)](https://youtu.be/6F3gCE-kvWA)
 
 ### iTero element
-Go to https://bff.cloud.myitero.com/login and log in.
+Go to https://bff.cloud.myitero.com/login and log in, and then follow the video below.
+[![Watch the video](https://img.youtube.com/vi/eRIC12Cd4Pg/default.jpg)](https://youtu.be/eRIC12Cd4Pg)
 Please contact the staffs if you need the login information.
 
 ## Step 3. Process the digital file
