@@ -49,7 +49,7 @@ Please see the corresponding video to learn how to process the intraoral scan yo
  - Youtube link2
  - Advanced: make a shell model
  - Advanced: Vertical printing
-[![IMAGE ALT TEXT HERE](vertical_printing.jpg)](https://www.youtube.com/watch?v=f3jqJRplCGg)
+[![Watch the video](https://img.youtube.com/vi/f3jqJRplCGg/default.jpg)](https://youtu.be/f3jqJRplCGg)
 
 
 ## Step 4. Submit a job to 3D printer
