@@ -6,9 +6,9 @@ This instruction is created for residents in the Division of Orthodontics at the
 
 In this instruction, we will demonstrate how to
 
- - Export the digital file (STL file) from either 3Shape or iTero,
- - Process the digital file to be printable using Meshmixer ,
- - 3D print those files
+ - Export the digital file (STL file) from either 3Shape or iTero (Step 2),
+ - Process the digital file to be printable using Meshmixer (Step 3),
+ - 3D print those files (Steps 4-6)
  
 # Equipment and Software
  - 3D printer: EnvisionOne (stereolithography)
@@ -24,7 +24,7 @@ There are two types of intraoral scanners available in our graduate ortho clinic
  - iTero element
  
  To learn how to conduct an intraoral scan, please ask our dental assistants.
-When you plan to 3D print the model, please remember which scanner you used, because the way to export digital files (STL files) are different (see step 2).
+When you plan to 3D print the model, please remember which scanner you used, because the way to export digital files (STL files) are different (see Step 2).
 
 ## Step 2. Export the intraoral scan
 
@@ -33,13 +33,15 @@ Find a computer with 3Shape OrthoAnalyzer. Details are coming soon.
 
 ### iTero element
 Go to https://bff.cloud.myitero.com/login and log in.
-If you need to know the login information, please contact the staffs.
+Please contact the staffs if you need the login information.
 
 ## Step 3. Process the digital file
 Basically, there are two types of intraoral scans:
 
  - Scan with a base (closed surface)
+ ![Drag Racing](type1.jpg)
  - Scan without a base (open surface)
+ ![Drag Racing](type2.jpg)
  
 Please see the corresponding video to learn how to process the intraoral scan you plan to print.
  - Youtube link1
