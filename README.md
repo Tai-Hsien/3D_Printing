@@ -14,7 +14,7 @@ In this instruction, we will demonstrate how to
  - 3D printer: EnvisionOne (stereolithography)
  - Slicing software: Envision One RP
  - Printing material: E-model HS (resin)
- - Mesh processing software: Meshmixer
+ - Mesh processing software: Meshmixer (free software)
 
 ## Step 1. Intraoral scanning
 
@@ -24,7 +24,7 @@ There are two types of intraoral scanners available in our graduate ortho clinic
  - iTero element
  
  To learn how to conduct an intraoral scan, please ask our dental assistants.
-When you plan to 3D print the model, please remember which scanner you used, because the way to export digital files (STL files) are different (see Step 2).
+When you plan to 3D print the model, please remember which scanner you used. The way to export digital files (STL files) are different (see Step 2).
 
 ## Step 2. Export the intraoral scan
 
@@ -63,7 +63,7 @@ Please see the corresponding video to learn how to process the intraoral scan yo
 ## Step 4. Submit a job to 3D printer
 
 Once the STL file you plan to print is ready, you can import the STL files into the slicing software (i.e., Envision One RP here). Please see the video below to learn the basic operation.
-There are two different types of printing in terms of direction: horizontal and vertical. Please see the corresponding videos below.
+There are two different types of printing direction: horizontal and vertical. Please see the corresponding videos below.
 |Direction|Video|Speed|Suitable models|
 |--|--|--|--|
 |Horizontal |Make a vertical printable model|[![Watch the video](https://img.youtube.com/vi/YSp00rMg9gs/default.jpg)](https://youtu.be/YSp00rMg9gs)|Short|$$\leq 4$$|
