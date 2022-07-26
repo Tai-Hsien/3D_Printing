@@ -40,13 +40,15 @@ Basically, there are two types of intraoral scans:
 
 |Type|Example|Printable|
 |--|--|--|
-|Scan with a base (closed surface)|![](type1.jpg)|Yes|
-|Scan without a base (open surface)|![](type2.jpg)|No|
+|Scan with a base<br />(closed surface)|![](type1.jpg)|Yes|
+|Scan without a base<br />(open surface)|![](type2.jpg)|No|
  
  
 Please see the corresponding video to learn how to process the intraoral scan you plan to print.
  - Youtube link1
  - Youtube link2
+ - Advanced: make a shell model
+ [enter link description here](https://www.youtube.com/watch?v=f3jqJRplCGg)
 
 ## Step 4. Submit a job to 3D printer
 
