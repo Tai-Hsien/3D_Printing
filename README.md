@@ -39,9 +39,9 @@ Please contact the staffs if you need the login information.
 Basically, there are two types of intraoral scans:
 
  - Scan with a base (closed surface)
- ![Drag Racing](type1.jpg)
+ ![](type1.jpg)
  - Scan without a base (open surface)
- ![Drag Racing](type2.jpg)
+ ![](type2.jpg)
  
 Please see the corresponding video to learn how to process the intraoral scan you plan to print.
  - Youtube link1
