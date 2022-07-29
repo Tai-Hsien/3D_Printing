@@ -31,7 +31,7 @@ When you plan to 3D print the model, please remember which scanner you used. The
 ### 3Shape Trios
 Find a computer with 3Shape OrthoAnalyzer, and then follow the video below.
 
-[![Watch the video](https://img.youtube.com/vi/6F3gCE-kvWA/default.jpg)](https://youtu.be/6F3gCE-kvWA)
+[![Watch the video](https://img.youtube.com/vi/ktZW3I1Nv40/default.jpg)](https://youtu.be/ktZW3I1Nv40)
 
 ### iTero element
 Go to https://bff.cloud.myitero.com/login and log in, and then follow the video below.
@@ -66,7 +66,7 @@ Once the STL file you plan to print is ready, you can import the STL files into 
 There are two different types of printing direction: horizontal and vertical. Please see the corresponding videos below.
 |Direction|Tutorial|Printing time|Suitable # of models|
 |--|--|--|--|
-|Horizontal |[![Watch the video](https://img.youtube.com/vi/R7QZV5582iA/default.jpg)](https://youtu.be/R7QZV5582iA)|Short|$$\leq 4$$|
+|Horizontal |[![Watch the video]![Watch the video](https://img.youtube.com/vi/R7QZV5582iA/default.jpg)](https://youtu.be/R7QZV5582iA)|Short|$$\leq 4$$|
 |Vertical |[![Watch the video](https://img.youtube.com/vi/YSp00rMg9gs/default.jpg)](https://youtu.be/YSp00rMg9gs)|Long|$$\gt4$$|
 
 
