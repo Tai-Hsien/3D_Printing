@@ -7,8 +7,8 @@ This instruction is created for residents in the Division of Orthodontics at the
 In this instruction, we will demonstrate how to
 
  - Export the digital file (STL file) from iTero (Step 2),
- - Process the digital file to be printable using Meshmixer (Optional Step 3),
- - 3D print those files (Steps 4-6)
+ - 3D print those files (Steps 3-5)
+ - Process the digital file to be printable using Meshmixer (Optional Step),
  
 # Equipment and Software
  - 3D printer: RayShape Shape 1+ (stereolithography)
@@ -29,7 +29,33 @@ Go to https://bff.cloud.myitero.com/login and log in, and then follow the video 
 
 Please contact the staffs if you need the login information.
 
-## Optional Step 3. Process the digital file
+
+## Step 3. Submit a job to 3D printer
+
+Once the STL file you plan to print is ready, you can import the STL files into the slicing software (i.e., ShapeWare here). Please see the video below to learn the basic operation.
+The video below will show you how to conduct a horizontal printing.
+There are two different types of printing direction: horizontal and vertical. Please see the corresponding videos below.
+
+[![Watch the video](https://img.youtube.com/vi/R7QZV5582iA/default.jpg)](https://youtu.be/R7QZV5582iA)
+
+
+## Step 4. 3D printing
+
+ 1. Turn on oxygen generator
+ 2. Check amount of resin in material tray
+ 3. Shaking and pour more resin into material tray
+ 4. Well mix resin in material tray
+ 5. Print
+
+## Step 5. Post-process 3D printed models
+
+Follow the video below.
+
+[![Watch the video](https://img.youtube.com/vi/DNjz6YfpBHQ/default.jpg)](https://youtu.be/DNjz6YfpBHQ)
+
+
+## Optional Step. Process the digital file
+
 Basically, there are two types of intraoral scans:
 
 |Type|Example|Printable|
@@ -46,29 +72,3 @@ Please see the corresponding video to learn how to process the intraoral scan th
 |Scan without a base<br />(open surface)|[![Watch the video](https://img.youtube.com/vi/3Bh2ytn5sJk/default.jpg)](https://youtu.be/3Bh2ytn5sJk)|Basic|
 |Make a shell model|[![Watch the video](https://img.youtube.com/vi/4LIzrXOKvcM/default.jpg)](https://youtu.be/4LIzrXOKvcM)| Advanced|
 |Make a vertical printable model|[![Watch the video](https://img.youtube.com/vi/f3jqJRplCGg/default.jpg)](https://youtu.be/f3jqJRplCGg)|Advanced|
-
-
-
-## Step 4. Submit a job to 3D printer
-
-Once the STL file you plan to print is ready, you can import the STL files into the slicing software (i.e., ShapeWare here). Please see the video below to learn the basic operation.
-The video below will show you how to conduct a horizontal printing.
-There are two different types of printing direction: horizontal and vertical. Please see the corresponding videos below.
-
-[![Watch the video](https://img.youtube.com/vi/R7QZV5582iA/default.jpg)](https://youtu.be/R7QZV5582iA)
-
-
-## Step 5. 3D printing
-
- 1. Turn on oxygen generator
- 2. Check amount of resin in material tray
- 3. Shaking and pour more resin into material tray
- 4. Well mix resin in material tray
- 5. Print
-
-## Step 6. Post-process 3D printed models
-
-Follow the video below.
-
-[![Watch the video](https://img.youtube.com/vi/DNjz6YfpBHQ/default.jpg)](https://youtu.be/DNjz6YfpBHQ)
-
