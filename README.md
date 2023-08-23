@@ -1,4 +1,4 @@
-﻿# How to 3D print a digital dental model
+﻿# How to 3D print a digital dental model (updated 08/23/2023)
 
 This instruction is created for residents in the Division of Orthodontics at the Ohio State University. If you have any questions, please feel free to reach out to the 3D printing engineer in the division.
 
@@ -51,12 +51,11 @@ Please see the corresponding video to learn how to process the intraoral scan th
 
 ## Step 4. Submit a job to 3D printer
 
-Once the STL file you plan to print is ready, you can import the STL files into the slicing software (i.e., Envision One RP here). Please see the video below to learn the basic operation.
+Once the STL file you plan to print is ready, you can import the STL files into the slicing software (i.e., ShapeWare here). Please see the video below to learn the basic operation.
+The video below will show you how to conduct a horizontal printing.
 There are two different types of printing direction: horizontal and vertical. Please see the corresponding videos below.
-|Direction|Tutorial|Printing time|Suitable # of models|
-|--|--|--|--|
-|Horizontal |[![Watch the video](https://img.youtube.com/vi/R7QZV5582iA/default.jpg)](https://youtu.be/R7QZV5582iA)|Short|$$\leq 4$$|
-|Vertical |[![Watch the video](https://img.youtube.com/vi/YSp00rMg9gs/default.jpg)](https://youtu.be/YSp00rMg9gs)|Long|$$\gt4$$|
+
+[![Watch the video](https://img.youtube.com/vi/R7QZV5582iA/default.jpg)](https://youtu.be/R7QZV5582iA)
 
 
 ## Step 5. 3D printing
