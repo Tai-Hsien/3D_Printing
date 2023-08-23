@@ -6,41 +6,30 @@ This instruction is created for residents in the Division of Orthodontics at the
 
 In this instruction, we will demonstrate how to
 
- - Export the digital file (STL file) from either 3Shape or iTero (Step 2),
- - Process the digital file to be printable using Meshmixer (Step 3),
+ - Export the digital file (STL file) from iTero (Step 2),
+ - Process the digital file to be printable using Meshmixer (Optional Step 3),
  - 3D print those files (Steps 4-6)
  
 # Equipment and Software
- - 3D printer: EnvisionOne (stereolithography)
- - Slicing software: Envision One RP
- - Printing material: E-model HS (resin)
- - Mesh processing software: Meshmixer (free software)
+ - 3D printer: RayShape Shape 1+ (stereolithography)
+ - Slicing software: ShapeWare
+ - Printing material: Rayshape Model (resin)
+ - (optional) Mesh processing software: Meshmixer (free software)
 
 ## Step 1. Intraoral scanning
 
-There are two types of intraoral scanners available in our graduate ortho clinic:
-
- - 3Shape Trios
- - iTero element
- 
- To learn how to conduct an intraoral scan, please ask our dental assistants.
+The intraoral scan we have in our graduate ortho clinc is iTero element 5D Plus. To learn how to conduct an intraoral scan, please ask our dental assistants.
 When you plan to 3D print the model, please remember which scanner you used. The way to export digital files (STL files) are different (see Step 2).
 
 ## Step 2. Export the intraoral scan
 
-### 3Shape Trios
-Find a computer with 3Shape OrthoAnalyzer, and then follow the video below.
-
-[![Watch the video](https://img.youtube.com/vi/ktZW3I1Nv40/default.jpg)](https://youtu.be/ktZW3I1Nv40)
-
-### iTero element
 Go to https://bff.cloud.myitero.com/login and log in, and then follow the video below.
 
-[![Watch the video](https://img.youtube.com/vi/eRIC12Cd4Pg/default.jpg)](https://youtu.be/eRIC12Cd4Pg)
+[![Watch the video](https://img.youtube.com/vi/8gPkSfUbmyw/default.jpg)](https://youtu.be/8gPkSfUbmyw)
 
 Please contact the staffs if you need the login information.
 
-## Step 3. Process the digital file
+## Optional Step 3. Process the digital file
 Basically, there are two types of intraoral scans:
 
 |Type|Example|Printable|
@@ -80,10 +69,6 @@ There are two different types of printing direction: horizontal and vertical. Pl
 
 ## Step 6. Post-process 3D printed models
 
- 1. Remove printing bed
- 2. Remove printed models from printing bed
- 3. Clean printing bed
- 4. Wash printed models using ultrasonic washer
- 5. Dry models
- 6. Post-curing models
+Follow the video below.
+[![Watch the video](https://img.youtube.com/vi/DNjz6YfpBHQ/default.jpg)](https://youtu.be/DNjz6YfpBHQ)
 
