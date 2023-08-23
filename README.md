@@ -70,5 +70,6 @@ There are two different types of printing direction: horizontal and vertical. Pl
 ## Step 6. Post-process 3D printed models
 
 Follow the video below.
+
 [![Watch the video](https://img.youtube.com/vi/DNjz6YfpBHQ/default.jpg)](https://youtu.be/DNjz6YfpBHQ)
 
