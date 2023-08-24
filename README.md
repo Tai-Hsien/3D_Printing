@@ -6,8 +6,8 @@ This instruction is created for residents in the Division of Orthodontics at the
 
 In this instruction, we will demonstrate how to
 
- - Export the digital file (STL file) from iTero (Step 2),
- - 3D print those files (Steps 3-5)
+ - Export the digital file (STL file) from iTero (Step 1),
+ - 3D print those files (Steps 2-4)
  - Process the digital file to be printable using Meshmixer (Optional Step),
  
 # Equipment and Software
@@ -16,12 +16,12 @@ In this instruction, we will demonstrate how to
  - Printing material: Rayshape Model (resin)
  - (optional) Mesh processing software: Meshmixer (free software)
 
-## Step 1. Intraoral scanning
+## Step 0. Intraoral scanning
 
 The intraoral scan we have in our graduate ortho clinc is iTero element 5D Plus. To learn how to conduct an intraoral scan, please ask our dental assistants.
 When you plan to 3D print the model, please remember which scanner you used. The way to export digital files (STL files) are different (see Step 2).
 
-## Step 2. Export the intraoral scan
+## Step 1. Export the intraoral scan
 
 Go to https://bff.cloud.myitero.com/login and log in, and then follow the video below.
 
@@ -30,24 +30,23 @@ Go to https://bff.cloud.myitero.com/login and log in, and then follow the video 
 Please contact the staffs if you need the login information.
 
 
-## Step 3. Submit a job to 3D printer
+## Step 2. Submit a job to 3D printer
 
 Once the STL file you plan to print is ready, you can import the STL files into the slicing software (i.e., ShapeWare here). Please see the video below to learn the basic operation.
 The video below will show you how to conduct a horizontal printing.
 There are two different types of printing direction: horizontal and vertical. Please see the corresponding videos below.
 
-[![Watch the video](https://img.youtube.com/vi/R7QZV5582iA/default.jpg)](https://youtu.be/R7QZV5582iA)
+[![Watch the video](https://img.youtube.com/vi/KpA2LI4AKzM/default.jpg)](https://youtu.be/KpA2LI4AKzM)
 
 
-## Step 4. 3D printing
+## Step 3. 3D printing
 
- 1. Turn on oxygen generator
- 2. Check amount of resin in material tray
- 3. Shaking and pour more resin into material tray
- 4. Well mix resin in material tray
- 5. Print
+ 1. Check amount of resin in material tray
+ 2. Shaking and pour more resin into material tray
+ 3. Well mix resin in material tray
+ 4. Print
 
-## Step 5. Post-process 3D printed models
+## Step 4. Post-process 3D printed models
 
 Follow the video below.
 
