@@ -20,7 +20,7 @@ In this instruction, we will demonstrate how to
 ## Step 0. Intraoral scanning
 
 The intraoral scanner we have in our graduate ortho clinc is iTero element 5D Plus. To learn how to conduct an intraoral scan, please ask our dental assistants.
-When you plan to 3D print the model, please remember which scanner you used. The way to export digital files (STL files) are different (see Step 2).
+The way to export digital files (STL files) are different (see Step 1).
 
 ## Step 1. Export the intraoral scan
 
