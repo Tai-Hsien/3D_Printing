@@ -1,4 +1,5 @@
-﻿# How to 3D print a digital dental model (updated by 08/23/2023)
+﻿# How to 3D print a digital dental model
+# updated by 08/23/2023
 
 This instruction is created for residents in the Division of Orthodontics at the Ohio State University. If you have any questions, please feel free to reach out to the 3D printing engineer in the division.
 
@@ -18,7 +19,7 @@ In this instruction, we will demonstrate how to
 
 ## Step 0. Intraoral scanning
 
-The intraoral scan we have in our graduate ortho clinc is iTero element 5D Plus. To learn how to conduct an intraoral scan, please ask our dental assistants.
+The intraoral scanner we have in our graduate ortho clinc is iTero element 5D Plus. To learn how to conduct an intraoral scan, please ask our dental assistants.
 When you plan to 3D print the model, please remember which scanner you used. The way to export digital files (STL files) are different (see Step 2).
 
 ## Step 1. Export the intraoral scan
