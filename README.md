@@ -6,9 +6,9 @@ This instruction is created for residents in the Division of Orthodontics at the
 
 In this instruction, we will demonstrate how to
 
- - Export the digital file (STL file) from iTero (Step 1),
+ - Export the digital file (STL file) from iTero (Step 1)
  - 3D print those files (Steps 2-4)
- - Process the digital file to be printable using Meshmixer (Optional Step),
+ - Process the digital file to be printable using Meshmixer (Optional Step)
  
 # Equipment and Software
  - 3D printer: RayShape Shape 1+ (stereolithography)
@@ -43,8 +43,11 @@ There are two different types of printing direction: horizontal and vertical. Pl
 
  1. Check amount of resin in material tray
  2. Shaking and pour more resin into material tray
- 3. Well mix resin in material tray
- 4. Print
+ 3. Find the submitted job and start
+ 
+ You can also follow the video below.
+ 
+ [![Watch the video](https://img.youtube.com/vi/cjTJE0g9aUM/default.jpg)](https://youtu.be/cjTJE0g9aUM)
 
 ## Step 4. Post-process 3D printed models
 
