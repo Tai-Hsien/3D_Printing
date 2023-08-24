@@ -39,11 +39,12 @@ There are two different types of printing direction: horizontal and vertical. Pl
 [![Watch the video](https://img.youtube.com/vi/LoksWepIKGk/default.jpg)](https://youtu.be/LoksWepIKGk)
 
 
-## Step 3. 3D printing
+## Step 3. Start a job on 3D printer
 
  1. Check amount of resin in material tray
  2. Shaking and pour more resin into material tray
- 3. Find the submitted job and start
+ 3. Double check the printing platform is clear
+ 4. Find the submitted job and start
  
  You can also follow the video below.
  
