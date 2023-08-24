@@ -1,4 +1,4 @@
-﻿# How to 3D print a digital dental model (updated 08/23/2023)
+﻿# How to 3D print a digital dental model (updated by 08/23/2023)
 
 This instruction is created for residents in the Division of Orthodontics at the Ohio State University. If you have any questions, please feel free to reach out to the 3D printing engineer in the division.
 
