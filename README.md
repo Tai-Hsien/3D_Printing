@@ -6,7 +6,7 @@ This instruction is created for residents in the Division of Orthodontics at The
 In this instruction, we will demonstrate how to:
 
  - Export the digital file (STL file) from iTero (Step 1)
- - 3D print those files (Steps 2-4)
+ - 3D print a STL file (Steps 2-4)
  - Additional information
  
 # Equipment and Software
@@ -25,7 +25,7 @@ Go to https://bff.cloud.myitero.com/login and log in, and then follow the video 
 
 [![Watch the video](https://img.youtube.com/vi/8gPkSfUbmyw/default.jpg)](https://youtu.be/8gPkSfUbmyw)
 
-Please contact the staffs if you need the login information.
+Please contact the senior residents or staffs if you need the login information.
 
 
 ## Step 2. Submit a job to 3D printer
