@@ -30,9 +30,10 @@ Please contact the senior residents or staffs if you need the login information.
 
 ## Step 2. Submit a job to 3D printer
 
-Once the STL file you plan to print is ready, you can import the STL files into the slicing software (i.e., Live Build DLP here). Please see the video below to learn the basic operation.
-The video below will show you how to conduct a horizontal printing.
-There are two different types of printing direction: horizontal and vertical. Please see the corresponding videos below.
+Once the STL file you plan to print is ready, you can import the STL files into the slicing software (i.e., Live Build DLP).
+There are two different types of printing directions: horizontal and vertical. Please see the "Additional Information" section at the end of this instruction for more details.
+In most scenarios in the graduate clinic, we will perform horizontal printing.
+Please see the video below, which showing you how to conduct horizontal printing.
 
 <!--[![Watch the video](https://img.youtube.com/vi/LoksWepIKGk/default.jpg)](https://youtu.be/LoksWepIKGk)-->
 
