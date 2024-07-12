@@ -34,7 +34,7 @@ Once the STL file you plan to print is ready, you can import the STL files into 
 The video below will show you how to conduct a horizontal printing.
 There are two different types of printing direction: horizontal and vertical. Please see the corresponding videos below.
 
-[![Watch the video](https://img.youtube.com/vi/LoksWepIKGk/default.jpg)](https://youtu.be/LoksWepIKGk)
+<!--[![Watch the video](https://img.youtube.com/vi/LoksWepIKGk/default.jpg)](https://youtu.be/LoksWepIKGk)-->
 
 
 ## Step 3. Start a job on 3D printer
@@ -46,7 +46,7 @@ There are two different types of printing direction: horizontal and vertical. Pl
  
  You can also follow the video below.
  
- [![Watch the video](https://img.youtube.com/vi/cjTJE0g9aUM/default.jpg)](https://youtu.be/cjTJE0g9aUM)
+ <!--[![Watch the video](https://img.youtube.com/vi/cjTJE0g9aUM/default.jpg)](https://youtu.be/cjTJE0g9aUM)-->
 
 ## Step 4. Post-process 3D printed model(s)
 
