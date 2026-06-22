@@ -40,11 +40,11 @@ Please see the video below, which showing you how to conduct horizontal printing
 
 ## Step 3. Start a job on 3D printer
 
- 1. Check amount of resin in material tray
- 2. Shaking and pour more resin into material tray
- 3. Double check the printing platform is clear
- 4. Find the submitted job and start
- 
+What you need to do depends on the option you chose in Step 2:
+
+ - **If you selected "Print Now":** You basically don't need to do anything in this step. The Form 4B will automatically mix the resin and refill the tank if there isn't enough resin.
+ - **If you selected "Upload to Queue":** Find your job on the printer, then press the Play button to start it.
+
  You can also follow the video below.
  
  <!--[![Watch the video](https://img.youtube.com/vi/cjTJE0g9aUM/default.jpg)](https://youtu.be/cjTJE0g9aUM)-->
