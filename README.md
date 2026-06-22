@@ -45,10 +45,6 @@ What you need to do depends on the option you chose in Step 2:
  - **If you selected "Print Now":** You basically don't need to do anything in this step. The Form 4B will automatically mix the resin and refill the tank if there isn't enough resin.
  - **If you selected "Upload to Queue":** Find your job on the printer, then press the Play button to start it.
 
- You can also follow the video below.
- 
- <!--[![Watch the video](https://img.youtube.com/vi/cjTJE0g9aUM/default.jpg)](https://youtu.be/cjTJE0g9aUM)-->
-
 ## Step 4. Post-process 3D printed model(s)
 
 Follow the video below.
