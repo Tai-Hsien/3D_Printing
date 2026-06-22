@@ -1,5 +1,5 @@
 ﻿# How to 3D print a digital dental model
-# Updated by 07/12/2024
+# Updated by 06/22/2026
 This instruction is created for residents in the Division of Orthodontics at The Ohio State University. If you have any questions, please feel free to reach out to the 3D printing engineer in the division.
 
 # Outline
@@ -10,8 +10,8 @@ In this instruction, we will demonstrate how to:
  - Additional information
  
 # Equipment and Software
- - 3D printer: Einstein™ Dental 3D Printer or EnvisionOne  (stereolithography)
- - Slicing software: Live Build DLP (previously known as Envision One RP)
+ - 3D printer: Formlabs Form 4B (PoshAlligator) (stereolithography)
+ - Slicing software: PreForm
  - Printing material: Desktop Health Model Z (resin)
 
 ## Step 0. Intraoral scanning
@@ -30,12 +30,12 @@ Please contact the senior residents or staffs if you need the login information.
 
 ## Step 2. Submit a job to 3D printer
 
-Once the STL file you plan to print is ready, you can import the STL files into the slicing software (i.e., Live Build DLP).
+Once the STL file you plan to print is ready, you can import the STL files into the slicing software (i.e., PreForm).
 There are two different types of printing directions: horizontal and vertical. Please see the "Additional Information" section at the end of this instruction for more details.
 In most scenarios in the graduate clinic, we will perform horizontal printing.
 Please see the video below, which showing you how to conduct horizontal printing.
 
-<!--[![Watch the video](https://img.youtube.com/vi/LoksWepIKGk/default.jpg)](https://youtu.be/LoksWepIKGk)-->
+[![Watch the video](https://img.youtube.com/vi/g5sFdnDb7Ys/default.jpg)](https://youtu.be/g5sFdnDb7Ys)
 
 
 ## Step 3. Start a job on 3D printer
